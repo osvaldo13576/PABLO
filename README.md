@@ -6,6 +6,13 @@ Sistema automatizado para la medición y adquisición de potencia en antenas de 
 
 **PABLO** es un proyecto enfocado en el desarrollo y control de un sistema electromecánico y de adquisición de datos para caracterizar y mapear la distribución de potencia en antenas de radiofrecuencia (RF).
 
+El nombre **PABLO** significa:
+- **P:** Potencia
+- **A:** Antenas RF
+- **B:** B1
+- **L:** Lo último en tecnología
+- **O:** Ostia q buen proyecto
+
 ### Características Principales
 
 - **Control de Movimiento Automatizado:** Secuencia de desplazamiento bidimensional impulsada por dos motores a pasos y delimitada por cuatro interruptores de fin de carrera, asegurando recorridos precisos y repetibles.
